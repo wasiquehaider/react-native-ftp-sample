@@ -17,7 +17,7 @@
     "@react-native-firebase/auth": "^8.0.4",
     "apisauce": "^1.1.1",
     "base-64": "^0.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.26.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
